@@ -19,11 +19,7 @@ remmina
      meke restart
      
      
-             eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlI
-             joiYWNjZXNzIiwiZXhwIjoxNzY0Mzk4MDM0LCJpYXQiOjE3NjMxMDIwMzQsImp0a
-             SI6IjZlNDQ3MTg0OTUzYjRkNmFiZWQyZmUyOTQzOTEzZDE5IiwidXNlcl9pZCI6NjUsInNlc3Npb25fa
-             WQiOiJhZmM5YjI5MzNkODM0NDEyYmE1OWFmN2U4MzAyZGUxNyIsImF1ZCI6IngiLCJpc3MiOiJzZXJ2ZXIifQ.IJ7
-             JaZE0FtlcrAUcNIyYjdkuW2fqPkouhHBGe8zbUKc
+             
     
     
     
